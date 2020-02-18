@@ -1,0 +1,9 @@
+C:\Users\SABRE\source\repos\MusicLoginScreen\bin\Debug\MusicLoginScreen.exe.config
+C:\Users\SABRE\source\repos\MusicLoginScreen\bin\Debug\MusicLoginScreen.exe
+C:\Users\SABRE\source\repos\MusicLoginScreen\bin\Debug\MusicLoginScreen.pdb
+C:\Users\SABRE\source\repos\MusicLoginScreen\obj\Debug\MusicLoginScreen.csprojAssemblyReference.cache
+C:\Users\SABRE\source\repos\MusicLoginScreen\obj\Debug\MusicLoginScreen.Form1.resources
+C:\Users\SABRE\source\repos\MusicLoginScreen\obj\Debug\MusicLoginScreen.Properties.Resources.resources
+C:\Users\SABRE\source\repos\MusicLoginScreen\obj\Debug\MusicLoginScreen.csproj.GenerateResource.cache
+C:\Users\SABRE\source\repos\MusicLoginScreen\obj\Debug\MusicLoginScreen.exe
+C:\Users\SABRE\source\repos\MusicLoginScreen\obj\Debug\MusicLoginScreen.pdb
