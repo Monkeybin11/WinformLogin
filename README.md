@@ -7,6 +7,7 @@ this is my first cSharp UI design using winforms
 <li>cSharp</li>
 <li>dotNET</li>
 <li>winforms</li>
+<li>visual studio</li>
 <li>WPF</li>
 </ol>
 
